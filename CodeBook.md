@@ -1,8 +1,8 @@
-# CodeBook for _run_\__analysis.R_
+# CodeBook for _run\_analysis.R_
 
 ## Summary
 
-The resulting `tidy_data.txt` contains 180 observations, and 68 variables (181 by 68, if including headings)
+The resulting `tidy_data.txt` contains 180 observations, and 68 variables (181 rows by 68 columns, if including headings)
 
 ## Variables
 
