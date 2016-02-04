@@ -11,7 +11,7 @@
 
 ## About
 
-The `run_analysis.R` script takes as input the [Human Activity Recognition Using Smartphones dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), collates the `train` and `test` data, and outputs a tidy data set in the form of a .txt file. An example of the output can be seen as `tidy_data.txt`
+The `run_analysis.R` script takes as input the [Human Activity Recognition Using Smartphones dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), collates the `train` and `test` data, filters for specific columns, generates means per subject per activity, and outputs a tidy data set in the form of a .txt file. An example of the output can be seen as `tidy_data.txt`
 
 Details on the data, its variables, and the transformations performed, can be found in `CodeBook.md`
 
